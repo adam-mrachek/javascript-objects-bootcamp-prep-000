@@ -1,1 +1,3 @@
-var playlist = {};
+var playlist = {
+  "Kendrick Lamaer": "DNA";
+};
