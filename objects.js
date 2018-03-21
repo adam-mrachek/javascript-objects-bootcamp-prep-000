@@ -1,3 +1,3 @@
 var playlist = {
- Kendrick Lamar: "DNA";
+  Kendrick: "DNA";
 };
